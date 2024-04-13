@@ -44,7 +44,7 @@ backend = ['nodejs', 'expressjs', 'adonisjs', 'mongoDB', 'mysql']
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit111mishra&theme=blue-green&show_icons=true">
  </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit111mishra&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&layout=compact">
-  <a><img alt="Devesh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arpit111mishra&theme=transparent&show_icons=true" ></a>
+  <a><img alt="Arpit Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arpit111mishra&theme=transparent&show_icons=true" ></a>
 
 
 
@@ -97,7 +97,7 @@ backend = ['nodejs', 'expressjs', 'adonisjs', 'mongoDB', 'mysql']
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <span align="left">
-  <a href="https://www.linkedin.com/in/devesh-kumar-mishra-58b481152/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/Arpit-kumar-mishra-58b481152/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a  href="mailto:arpit111mishra@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://arpit111mishra.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
 </span>

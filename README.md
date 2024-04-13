@@ -42,8 +42,7 @@ class Skills extends SoftwareDeveloper {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit111mishra&theme=blue-green&show_icons=true">
  </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit111mishra&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&layout=compact">
-  <a><img alt="Arpit Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arpit111mishra&theme=transparent&show_icons=true" ></a>
-
+  <a><img alt="Arpit Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arpit111mishra&bg_color=ffffff&color=ff004c&line=1f1e1e&point=8e0606&area=true&hide_border=true" ></a>
 
 
 

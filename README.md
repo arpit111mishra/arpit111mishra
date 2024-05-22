@@ -21,7 +21,7 @@ class Bio extends SoftwareDeveloper {
   availability = "Software Developer !!";
 }
 class Skills extends SoftwareDeveloper {
-  language  = ['JavaScript','HTML','C','C++','Java'];
+  language  = ['Python','JavaScript','HTML','C','C++','Java'];
   style = ['Bootstrap' , 'CSS'];
   database = ['mysql']
 }

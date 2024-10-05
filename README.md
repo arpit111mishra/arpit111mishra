@@ -18,10 +18,10 @@ class Bio extends SoftwareDeveloper {
   name     = 'Arpit Mishra';
   title    = 'Software Developer';
   address = 'Bahraich, U.P.';
-  availability = "Software Developer !!";
+  availability = "Software Developer , Data Analyst ";
 }
 class Skills extends SoftwareDeveloper {
-  language  = ['Python','JavaScript','HTML','C','C++','Java'];
+  language  = ['Python','R','JavaScript','HTML','C','C++','Java'];
   style = ['Bootstrap' , 'CSS'];
   database = ['mysql']
 }
